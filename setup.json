@@ -7,7 +7,7 @@
         "workers": 8,
         "db_uri": "mongodb+srv://kmoods:kdramas@cluster0.jg2lhga.mongodb.net/?appName=Cluster0",
         "db_name": "paradoxhsbot",
-        "fsubs": [],
+        "fsubs": [-1002064703405],
         "db": -1002064703405,
         "auto_del": 300,
         "messages": {
@@ -76,9 +76,9 @@
         "api_id": "21266019",
         "api_hash": "7e936a4446a3af8688ad26a2efa127cd",
         "workers": 8,
-        "db_uri": "mongodb+srv://Awakeners-bots-Powered-by",
-        "db_name": "Awakenersbots",
-        "fsubs": [],
+        "db_uri": "mongodb+srv://doxypara:paradox06@doxpara.r6bnyfs.mongodb.net/?appName=DoxPara",
+        "db_name": "doxypara",
+        "fsubs": [-1002064703405],
         "db": -1002064703405,
         "auto_del": 300,
         "messages": {
