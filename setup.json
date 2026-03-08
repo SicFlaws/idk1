@@ -7,7 +7,7 @@
         "workers": 8,
         "db_uri": "mongodb+srv://kmoods:kdramas@cluster0.jg2lhga.mongodb.net/?appName=Cluster0",
         "db_name": "paradoxhsbot",
-        "fsubs": [-1003756605606],
+        "fsubs": [],
         "db": -1002064703405,
         "auto_del": 300,
         "messages": {
@@ -78,7 +78,7 @@
         "workers": 8,
         "db_uri": "mongodb+srv://Awakeners-bots-Powered-by",
         "db_name": "Awakenersbots",
-        "fsubs": [-1003756605606],
+        "fsubs": [],
         "db": -1002064703405,
         "auto_del": 300,
         "messages": {
