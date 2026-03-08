@@ -1,14 +1,14 @@
 [
     {
         "session": "ses1",
-        "token": "BOT_TOKEN",
-        "api_id": "12345678",
-        "api_hash": "",
+        "token": "8253083871:AAH5woaMF5U7bV4dqA2yBc4w-LTDfGeU7M4",
+        "api_id": "21266019",
+        "api_hash": "7e936a4446a3af8688ad26a2efa127cd",
         "workers": 8,
-        "db_uri": "mongodb+srv://Awakeners-bots-Powered-by",
-        "db_name": "Awakenersbots",
-        "fsubs": [],
-        "db": -1234567890,
+        "db_uri": "mongodb+srv://kmoods:kdramas@cluster0.jg2lhga.mongodb.net/?appName=Cluster0",
+        "db_name": "paradoxhsbot",
+        "fsubs": [-1003756605606],
+        "db": -1002064703405,
         "auto_del": 300,
         "messages": {
             "START": "<b><blockquote><b><blockquote>Moshi Moshi Senpai {mention}</blockquote></b>\n<b>I'm Akuma Sama a Filestore bot of @Anime_Mortals</b></blockquote>",
@@ -19,7 +19,7 @@
             "FSUB_PHOTO": ""
         },
         "admins": [
-            123456789,
+            7496495241,
             987654321
         ],
         "disable_btn": true,
@@ -29,7 +29,7 @@
             "referral_reward": 5,
             "payment_method": "manual",
             "upi_id": "GPGpapaji@Fam",
-            "phone": "XXXXXXXXXX",
+            "phone": "",
             "packages": [
                 {
                     "id": "pkg_10",
@@ -72,14 +72,14 @@
 
     {
         "session": "ses2",
-        "token": "BOT_TOKEN",
-        "api_id": "12345678",
-        "api_hash": "",
+        "token": "8208090147:AAHC3xQyIi3vxv9XNLDdYszTcoU-rFBiMcs",
+        "api_id": "21266019",
+        "api_hash": "7e936a4446a3af8688ad26a2efa127cd",
         "workers": 8,
         "db_uri": "mongodb+srv://Awakeners-bots-Powered-by",
         "db_name": "Awakenersbots",
-        "fsubs": [],
-        "db": -1234567890,
+        "fsubs": [-1003756605606],
+        "db": -1002064703405,
         "auto_del": 300,
         "messages": {
             "START": "<b><blockquote><b><blockquote>Moshi Moshi Senpai {mention}</blockquote></b>\n<b>I'm Akuma Sama a Filestore bot of @Anime_Mortals</b></blockquote>",
@@ -90,7 +90,7 @@
             "FSUB_PHOTO": ""
         },
         "admins": [
-            123456789,
+            7496495241,
             987654321
         ],
         "disable_btn": true,
@@ -100,7 +100,7 @@
             "referral_reward": 5,
             "payment_method": "manual",
             "upi_id": "GPGpapaji@Fam",
-            "phone": "XXXXXXXXXX",
+            "phone": "",
             "packages": [
                 {
                     "id": "pkg_10",
